@@ -36,6 +36,10 @@ Banking teams to proactively monitor fraudulent activities.
 Data analysts to identify high-risk segments and periods.
 
 Stakeholders to make informed decisions using interactive and visual insights.
+<img width="1435" height="809" alt="image" src="https://github.com/user-attachments/assets/f138006c-f4e0-4a18-a017-a863082cfe3d" />
+
+
+
 
 
 
